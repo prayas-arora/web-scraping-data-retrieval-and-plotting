@@ -1,0 +1,19 @@
+Step-1
+ I inspected the webpage provided: https://www.nytimes.com/interactive/2018/04/03/climate/us-fuel-economy.html
+by clicking right anywhere on the page and selecting inspect element.
+
+Step-2:
+Switch to Network tab and reloaded the page. The Network view in the inspector starts to fill up with information.
+The Network view shows a list of every file that is loaded by the browser when the page is being accessed.
+
+Step-3:
+Switch to XHR tab to look through data sources. This actually stands for XML HTTP Request.
+
+Step-4:
+Look for a .csv file or JSON objects. This is because mostly graphs are plotted directly from .csv files or some JSON object fetches content from the server. 
+
+Step-5: 
+Right click on the sources you feel could be possible and open in new tab.
+Check if it is the data source you’re looking for.
+
+In my case I found the dataset in a csv file: cafe-combined.csv
