@@ -1,9 +1,8 @@
 # Data-Retreival-and-Plotting
 A script to download the Fortune top 10 E.U corporations by revenue (2016) from Wikipedia and perform operations to make sense and retrieve information from the data.
 
--->
-Task:
-Data retrieval and plotting:
+Task1:
+Data retrieval and plotting.
 1. Write a script to download the Fortune top 10 E.U corporations by revenue (2016) table
 under the “Companies” section.
 URL: https://en.wikipedia.org/wiki/Economy_of_the_European_Union
@@ -21,3 +20,8 @@ Save the bar chart as a .png file with good resolution in the same directory as 
 file.
 4. Write out the dataframe with the table that you extracted and add the 4 columns
 calculated above to a csv file in the same directory as your code file.
+
+Task2:
+Retrieve the dataset present behind the graphs in the following link in an excel sheet. You’re
+free to use any kind of approach.
+URL: https://www.nytimes.com/interactive/2018/04/03/climate/us-fuel-economy.html
