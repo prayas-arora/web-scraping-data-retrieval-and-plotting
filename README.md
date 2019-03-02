@@ -1,5 +1,5 @@
 # Data-Retrieval, Plotting and Web-Scraping
-A script to download the Fortune top 10 E.U corporations by revenue (2016) from Wikipedia and perform operations to make sense and retrieve information from the data.
+A script to download the data for Fortune top 10 E.U corporations by revenue (2016) from Wikipedia and perform operations to make sense and retrieve information from the data.
 
 Task1:
 Data retrieval and plotting.
